@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Menu</name>
+   <tag></tag>
+   <elementGuidId>7674b52b-0d8b-4020-849d-71c279d834c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-orange</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='height-mark']/div[2]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>604fc01b-c892-4a35-be2a-26e1a7a6a5c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-orange</value>
+      <webElementGuid>1bd9db1b-0ad1-4cbf-932c-5912ee5411f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>itemprop</name>
+      <type>Main</type>
+      <value>menu</value>
+      <webElementGuid>76646e12-d7e5-485c-8449-47ae99b73a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/restaurants/cork-dan-screw-country-club-senayan/menus</value>
+      <webElementGuid>0c93df01-e700-4265-8506-d68d3c8a8de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Menu »</value>
+      <webElementGuid>28658e85-10ca-4435-8c88-df98bf0e2608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;height-mark&quot;)/div[@class=&quot;actions in-restaurant&quot;]/div[@class=&quot;d-flex flex-column flex-md-row&quot;]/a[@class=&quot;btn btn-orange&quot;]</value>
+      <webElementGuid>46e0690f-b716-4898-9a9e-daa7d9220f87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='height-mark']/div[2]/div/a[2]</value>
+      <webElementGuid>177eaa6b-3f89-4d72-a3b8-fa3e88698119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tulis'])[1]/following::a[1]</value>
+      <webElementGuid>0a296a88-9719-4a73-8d1d-a177d231355e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Menu »']/parent::*</value>
+      <webElementGuid>01d99fb4-d92a-46d6-94b6-8a1d9a6207c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/restaurants/cork-dan-screw-country-club-senayan/menus')]</value>
+      <webElementGuid>036ea456-9a38-405c-a2c9-df0b6746fceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/a[2]</value>
+      <webElementGuid>d7ba5864-40dd-4d0a-96cc-8fa36ce2b3b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/restaurants/cork-dan-screw-country-club-senayan/menus' and (text() = 'Lihat Menu »' or . = 'Lihat Menu »')]</value>
+      <webElementGuid>6e31bed1-e60a-4956-bda7-25a5c8f6a0e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_BulanJanFebMarAprMeiJunJulAgsSepOktNovDes</name>
+   <tag></tag>
+   <elementGuidId>f217b58f-d7eb-45e6-a640-01889c96a156</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='modal-sign-up']/div[5]/div[2]/span/select[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>83309139-677e-46c7-a4d3-1597c95a1dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>month </value>
+      <webElementGuid>f648e885-d5d4-4023-a65c-7d00a891118d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BulanJanFebMarAprMeiJunJulAgsSepOktNovDes</value>
+      <webElementGuid>57d88dcc-6b86-489a-ba8d-d03eb8d9d6cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-sign-up&quot;)/div[@class=&quot;form-group birth-date&quot;]/div[@class=&quot;col-lg-12&quot;]/span[@class=&quot;combodate&quot;]/select[@class=&quot;month&quot;]</value>
+      <webElementGuid>8f6ddd75-d1e2-46cd-b20f-3471e006e29e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='modal-sign-up']/div[5]/div[2]/span/select[2]</value>
+      <webElementGuid>3462d3f5-83d3-4fe1-a393-89d493a4a1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Lahir:'])[1]/following::select[2]</value>
+      <webElementGuid>c27a3b18-513f-4559-ba0c-4349c1cf7319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/following::select[2]</value>
+      <webElementGuid>bd649a8d-a77d-4783-890b-fc1f7c9ba87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/preceding::select[2]</value>
+      <webElementGuid>dd1a409d-9a4f-477d-9298-f4f1a8cb2ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[2]</value>
+      <webElementGuid>f62b58b3-7722-42c8-b4fe-522403f55d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'BulanJanFebMarAprMeiJunJulAgsSepOktNovDes' or . = 'BulanJanFebMarAprMeiJunJulAgsSepOktNovDes')]</value>
+      <webElementGuid>651392be-7340-4391-960f-10de648b0035</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
